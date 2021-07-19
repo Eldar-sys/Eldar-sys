@@ -1,0 +1,25 @@
+.menu-index-link-index{
+    display: none;
+}
+.photo-show{
+    border: 2px solid blue;
+    width: 100%;
+    height: auto;
+}
+.banner-info{
+    border: 2px solid #f3f3f3;
+    background-color: rgb(83, 78, 78);
+    color: #f3f3f3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+}
+.banner-info:hover{
+    border: 2px solid rgb(83, 78, 78);
+    background-color: #f3f3f3;
+    color: rgb(83, 78, 78);
+
+}
+
